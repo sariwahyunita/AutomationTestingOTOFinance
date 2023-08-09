@@ -25,23 +25,11 @@ WebUI.click(findTestObject('PageDetailBulkUpload/aAddData'))
 
 WebUI.verifyElementPresent(findTestObject('PageDetailBulkUpload/popUpTambahData/h5TambahData'), 0)
 
-WebUI.setText(findTestObject('PageDetailBulkUpload/popUpTambahData/inputMerchant'), '1111')
-
-WebUI.setText(findTestObject('PageDetailBulkUpload/popUpTambahData/inputUserCode'), '6789')
-
-WebUI.setText(findTestObject('PageDetailBulkUpload/popUpTambahData/inputUsername'), 'userTest')
-
-WebUI.setText(findTestObject('PageDetailBulkUpload/popUpTambahData/inputCustomerID'), '12345')
-
-WebUI.setText(findTestObject('PageDetailBulkUpload/popUpTambahData/inputTotalAmount'), '10000')
-
-WebUI.setText(findTestObject('PageDetailBulkUpload/popUpTambahData/inputPeriode'), '2')
-
 WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('PageDetailBulkUpload/popUpTambahData/buttonAddData'))
 
-WebUI.verifyElementText(findTestObject('PageDetailBulkUpload/popUpTambahData/popUpSuccess/divSuccess'), 'Berhasil tambah detail data upload')
+WebUI.verifyElementText(findTestObject('PageDetailBulkUpload/popUpTambahData/pupUpFailed/divFailed'), 'Semua data harus diisi.')
 
 WebUI.takeScreenshot()
 
