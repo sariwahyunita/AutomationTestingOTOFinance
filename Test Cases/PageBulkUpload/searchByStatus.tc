@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>searchByStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4294d79-e3c2-40d7-919a-22e86c699be4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ac2f9413-deb2-4d90-b45a-af1e902582e6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Cancel'</defaultValue>
+      <description></description>
+      <id>ac2f9413-deb2-4d90-b45a-af1e902582e6</id>
+      <masked>false</masked>
+      <name>searchStatus</name>
+   </variable>
+</TestCaseEntity>

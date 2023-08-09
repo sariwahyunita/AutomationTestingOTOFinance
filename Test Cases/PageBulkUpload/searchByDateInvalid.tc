@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>searchByDateInvalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f2c00a1-1e17-4e73-8694-3863c5458728</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>35d533e3-c570-4ebf-9932-69d44c502cff</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Cancel'</defaultValue>
+      <description></description>
+      <id>35d533e3-c570-4ebf-9932-69d44c502cff</id>
+      <masked>false</masked>
+      <name>searchStatus</name>
+   </variable>
+</TestCaseEntity>

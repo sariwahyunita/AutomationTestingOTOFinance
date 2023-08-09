@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>addDataUpload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f26da695-8a90-4ee8-b856-027fbfe1aa76</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8227c617-d170-465c-a19b-574ef2f7aba6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'addtest'</defaultValue>
+      <description></description>
+      <id>8227c617-d170-465c-a19b-574ef2f7aba6</id>
+      <masked>false</masked>
+      <name>addData</name>
+   </variable>
+</TestCaseEntity>

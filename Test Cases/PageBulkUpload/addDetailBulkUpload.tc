@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>addDetailBulkUpload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a0dec77-d15e-4565-b54c-7e055a4bcdad</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>19400315-c2b2-485d-9b7c-fe7d419ca898</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'addtest'</defaultValue>
+      <description></description>
+      <id>19400315-c2b2-485d-9b7c-fe7d419ca898</id>
+      <masked>false</masked>
+      <name>addData</name>
+   </variable>
+</TestCaseEntity>
